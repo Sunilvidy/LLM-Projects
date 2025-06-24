@@ -5,7 +5,7 @@ Repository for projects done to learn LLM engineering
 I'm so happy you're joining me on this path. We'll be building immensely satisfying projects in the coming weeks. Some will be easy, some will be challenging, many will ASTOUND you! The projects build on each other so you develop deeper and deeper expertise each week. One thing's for sure: you're going to have a lot of fun along the way.
 
 # Before you begin
-I'm here to help you be most successful with your learning! If you hit any snafus, or if you have any ideas on how I can improve the course, please do reach out in the platform or by emailing me direct (maadabushi@gmail.com.com). It's always great to connect with people on LinkedIn to build up the community - you'll find me here:
+I'm here to help you be most successful with your learning! If you hit any snafus, or if you have any ideas on how I can improve the course, please do reach out in the platform or by emailing me direct (maadabushi@gmail.com). It's always great to connect with people on LinkedIn to build up the community - you'll find me here:
 www.linkedin.com/in/sunil-m-072a8341
 # Instant Gratification instructions with Llama 3.2 not Llama 3.3!
 ## Important note: see my warning about Llama3.3 below - it's too large for home computers! Stick with llama3.2! Seome may miss this warning...
