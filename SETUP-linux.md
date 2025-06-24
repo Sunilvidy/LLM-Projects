@@ -10,8 +10,8 @@ ___
 
 Setting up a powerful environment to work at the forefront of AI requires some effort, but these instructions should guide you smoothly. If you encounter any issues, don't hesitate to reach out to me. I'm here to ensure you get set up without hassle.
 
-Email: ed@edwarddonner.com  
-LinkedIn: https://www.linkedin.com/in/eddonner/  
+Email: maadabushi@gmail.com  
+LinkedIn: www.linkedin.com/in/sunil-m-072a8341 
 
 For this setup, we'll use Anaconda to create a reliable environment for your AI work. Alternatively, I've provided a lighter option if you prefer to avoid Anaconda. Let's get started!
 
@@ -41,9 +41,9 @@ cd ~/Projects
 3. **Clone the repository:**
 
 Run the following command in your terminal:
-`git clone https://github.com/ed-donner/llm_engineering.git`
+`git clone https://github.com/Sunilvidy/LLM-Projects.git`
 
-This creates a new directory `llm_engineering` within your Projects folder and downloads the course code. Use `cd llm_engineering` to enter the directory. This is your "project root directory."
+This creates a new directory `llm-projects` within your Projects folder and downloads the course code. Use `cd llm-projects` to enter the directory. This is your "project root directory."
 
 ### Part 2: Install Anaconda environment
 
@@ -58,7 +58,7 @@ If this Part 2 gives you any trouble, refer to the alternative Part 2B below.
 2. **Set up the environment:**
 
 - Open a terminal and navigate to the "project root directory" using:
-`cd ~/Projects/llm_engineering` (adjust the path as necessary).
+`cd ~/Projects/llm-projects` (adjust the path as necessary).
 - Run `ls` to confirm the presence of subdirectories for each week of the course.
 - Create the environment: `conda env create -f environment.yml`
 
@@ -75,7 +75,7 @@ In some distributions this may be required so that the llms environment is visib
 
 3. **Start Jupyter Lab:**
 
-From the `llm_engineering` folder, run: `jupyter lab`.
+From the `llm-projects` folder, run: `jupyter lab`.
 
 Jupyter Lab should open in your browser. Close it after confirming it works, and proceed to Part 3.
 
@@ -89,7 +89,7 @@ Jupyter Lab should open in your browser. Close it after confirming it works, and
 
 2. **Navigate to the project root directory:**
 
-Use `cd ~/Projects/llm_engineering` and verify the folder contents with `ls`.
+Use `cd ~/Projects/llm-projects` and verify the folder contents with `ls`.
 
 3. **Create a virtual environment:**
 
@@ -128,7 +128,7 @@ Lastly, so that the kernel is visible after step (6) in jupyter lab :
 
 6. **Start Jupyter Lab:**
 
-From the `llm_engineering` folder, run: `jupyter lab`.
+From the `llm-projects` folder, run: `jupyter lab`.
 
 
 ### Part 3 - OpenAI key (OPTIONAL but recommended)
@@ -165,7 +165,7 @@ When you have these keys, please create a new file called `.env` in your project
 
 1. Open Terminal (Applications > Utilities > Terminal)
 
-2. Navigate to the "project root directory" using `cd ~/Documents/Projects/llm_engineering` (replace this path with the actual path to the llm_engineering directory, your locally cloned version of the repo).
+2. Navigate to the "project root directory" using `cd ~/Documents/Projects/llm-projects` (replace this path with the actual path to the llm-projects directory, your locally cloned version of the repo).
 
 3. Create the .env file with
 
@@ -203,7 +203,7 @@ This file won't appear in Jupyter Lab because jupyter hides files starting with 
 
 1. Open a terminal.
 2. Navigate to the "project root directory" using:
-`cd ~/Projects/llm_engineering`.
+`cd ~/Projects/llm-projects`.
 3. Activate your environment:
    - If you used Anaconda: `conda activate llms`
    - If you used the alternative: `source llms/bin/activate`
