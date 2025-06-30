@@ -1,6 +1,6 @@
 # LLM-Projects
 Repository for projects done to learn LLM engineering
-![image](https://github.com/user-attachments/assets/8ef99858-0e36-43cd-9f28-b0705a539bb6)
+![destination](./Destination.jpg)
 
 I'm so happy you're joining me on this path. We'll be building immensely satisfying projects in the coming weeks. Some will be easy, some will be challenging, many will ASTOUND you! The projects build on each other so you develop deeper and deeper expertise each week. One thing's for sure: you're going to have a lot of fun along the way.
 
